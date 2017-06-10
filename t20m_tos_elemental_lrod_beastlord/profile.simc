@@ -1,0 +1,47 @@
+override.spell_data=effect.288995.sp_coefficient=0.805
+override.spell_data=effect.3248.sp_coefficient=11.50
+
+shaman="T20M_Elemental_Shaman_Lightning_Rod"
+level=110
+race=tauren
+role=spell
+talents=3112312
+spec=elemental
+artifact=40:0:0:0:0:291:1:292:1:293:1:294:1:295:1:296:1:297:1:298:4:299:4:300:4:301:4:302:4:303:4:304:4:305:4:306:4:1350:1:1387:1:1589:4:1590:1:1591:1:1592:1:1683:10
+
+# Legendary Wrists
+# wrists=alakirs_acrimony,id=137102,ilevel=970
+
+# Legendary Hands
+# hands=smoldering_heart,id=151819,ilevel=970
+
+# Legendary Waist
+# waist=pristine_protoscale_girdle,id=137083,ilevel=970
+
+# Legendary EOTN
+# finger2=eye_of_the_twisting_nether,id=137050,ilevel=970
+
+# Legendary Sephuz
+# finger2=sephuzs_secret,id=132452,ilevel=970,gems=200int,enchant=200crit
+
+# Legendary Soul of the Farseer
+# finger2=soul_of_the_farseer,id=151647,ilevel=970,gems=200int,enchant=200crit
+
+
+head=helmet_of_the_skybreaker,id=147178,ilevel=930
+neck=string_of_extracted_incisors,id=147013,ilevel=930,enchant=mark_of_the_hidden_satyr
+# shoulders=epaulets_of_deceitful_intent,id=134480,ilevel=925
+shoulders=pauldrons_of_the_gibbering_eye,id=147053,ilevel=930
+back=drape_of_the_skybreaker,id=147176,ilevel=930,enchant=binding_of_intellect
+chest=harness_of_the_skybreaker,id=147175,ilevel=930
+# wrists=remorseless_chain_armbands,id=137405,ilevel=925
+wrists=alakirs_acrimony,id=137102,ilevel=970
+hands=vicegrip_of_the_unrepentant,id=147048,ilevel=940
+waist=belt_of_screaming_slag,id=147055,ilevel=930
+legs=legguards_of_the_skybreaker,id=147179,ilevel=930
+feet=insulated_finpads,id=147045,ilevel=930
+finger1=seal_of_the_second_duumvirate,id=147195,ilevel=930,enchant=200crit
+# finger2=scaled_band_of_servitude,id=147020,ilevel=930,enchant=200crit
+finger2=soul_of_the_farseer,id=151647,ilevel=970,gems=200int,enchant=200crit
+main_hand=the_fist_of_raden,id=128935,bonus_id=744,ilevel=951,gem_id=147112/142308/147112,relic_id=3563/3518/3563
+off_hand=the_highkeepers_ward,id=128936
